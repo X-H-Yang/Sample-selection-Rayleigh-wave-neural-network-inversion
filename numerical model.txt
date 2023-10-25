@@ -1,0 +1,4 @@
+h_true = [2 4 5 5]; % thickness of each layer (m)
+Vs_true = [400 200 300 500 650]; % S-wave velocity of each layer (m/s)
+Vp_true = [700 300 500 900 1100]; % P-wave velocity of each layer (m/s)
+den_true = [1.90 1.70 1.80 2.00 2.10]; % density of each layer (g/cm3)
