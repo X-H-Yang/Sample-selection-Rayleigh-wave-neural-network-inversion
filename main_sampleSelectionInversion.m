@@ -2,8 +2,11 @@
 %                       entitled "A Sample Selection Method for 
 %                       Neural-network-based Rayleigh Wave Inversion".
 %
-% paper status: minor revision (journal: IEEE Transactions on Geoscience 
-%                                        and Remote Sensing  
+% paper status: Published - Early access 
+%               (journal: IEEE Transactions on Geoscience and Remote Sensing)
+% Xiao-Hui Yang, Qiang Zu, Yuanyuan Zhou, Peng Han *, Xiaofei Chen (2023). 
+% A Sample Selection Method for Neural-network-based Rayleigh Wave Inversion. 
+% IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3341955.
 %
 % software version: MATLAB R2017a
 %
@@ -66,6 +69,9 @@
 %      "A Sample Selection Method for Neural-network-based Rayleigh Wave
 %       Inversion"; the users can cite this paper for scientific research.
 % 
+% Xiao-Hui Yang, Qiang Zu, Yuanyuan Zhou, Peng Han *, Xiaofei Chen (2023). 
+% A Sample Selection Method for Neural-network-based Rayleigh Wave Inversion. 
+% IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3341955.
 
 clear;
 clc;
